@@ -1,10 +1,14 @@
 ﻿using System;
+using System.Collections.Generic;
+
 namespace WikiLogic
 {
-    public class IIndexStore
+    public interface IIndexStore
     {
-        public IIndexStore()
-        {
-        }
+        List<string> GetTagsForDocument(string DocId);
+
+        void SaveTagsForDocument(string DocId, List<string> tags);
+
+        void RemoveTagsForDocument(string DocId);
     }
 }

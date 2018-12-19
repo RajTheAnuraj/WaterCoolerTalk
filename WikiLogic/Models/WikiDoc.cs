@@ -6,5 +6,9 @@ namespace WikiLogic.Models
         public WikiDoc()
         {
         }
+
+        public string Content { get; set; }
+        public string DocId { get; set; }
+
     }
 }
