@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WikiWeb", "WikiWeb\WikiWeb.csproj", "{22277D86-421D-4754-8DF4-92E0FBF53157}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WikiLogic", "WikiLogic\WikiLogic.csproj", "{D61CC01A-F9A2-4B04-B1BD-8A621A54A9F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WikiTest", "WikiTest\WikiTest.csproj", "{8D9A4D8A-4388-447D-916D-BA33C538EBE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22277D86-421D-4754-8DF4-92E0FBF53157}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22277D86-421D-4754-8DF4-92E0FBF53157}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22277D86-421D-4754-8DF4-92E0FBF53157}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22277D86-421D-4754-8DF4-92E0FBF53157}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D61CC01A-F9A2-4B04-B1BD-8A621A54A9F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D61CC01A-F9A2-4B04-B1BD-8A621A54A9F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D61CC01A-F9A2-4B04-B1BD-8A621A54A9F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D61CC01A-F9A2-4B04-B1BD-8A621A54A9F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D9A4D8A-4388-447D-916D-BA33C538EBE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D9A4D8A-4388-447D-916D-BA33C538EBE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D9A4D8A-4388-447D-916D-BA33C538EBE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D9A4D8A-4388-447D-916D-BA33C538EBE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
